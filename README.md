@@ -1,16 +1,22 @@
-## Hi there 👋
+# GPT20X Guide
 
-<!--
-**gpt20x-guide/gpt20x-guide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+这里主要整理 ChatGPT Plus、Pro、Codex 的使用指南，以及国内用户经常遇到的开通、支付和套餐问题。
 
-Here are some ideas to get you started:
+网站：
+[GPT20X](https://gpt20x.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+已整理内容：
+
+[ChatGPT Plus 国内使用与开通指南](https://github.com/gpt20x-guide/chatgpt-plus-guide)
+
+另外也会同步更新 ChatGPT Plus / Pro、Codex 相关教程和常见问题。
+
+如果你正在了解 ChatGPT Plus 的开通、套餐区别或支付问题，也可以查看：
+
+[ChatGPT Plus / Pro 国内开通教程](https://gpt20x.com/blog/chatgpt-plus-pro-recharge-guide)
+
+[ChatGPT Plus 价格与充值方式](https://gpt20x.com/blog/chatgpt-plus-recharge-price-guide)
+
+---
+
+本主页为第三方教程整理，与 OpenAI 无官方合作或隶属关系。
