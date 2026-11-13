@@ -3,7 +3,9 @@
 这里主要整理 ChatGPT Plus、Pro、Codex 的使用指南，以及国内用户经常遇到的开通、支付和套餐问题。
 
 网站：
-[GPT20X](https://gpt20x.com/)
+[GPT20X（gpt20x.com）](https://gpt20x.com/)
+
+教程同步：[Hugging Face](https://huggingface.co/gpt20x)
 
 已整理内容：
 
